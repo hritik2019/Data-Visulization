@@ -52,4 +52,3 @@ pip install seaborn
 
 **Author : Hritik Rangra**
 
-**This Project is contributed to Dev-Script under Hacktoberfest'21, 2021 by Heet kumar Kothadiya**
